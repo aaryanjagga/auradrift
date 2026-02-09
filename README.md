@@ -52,8 +52,3 @@ Vanilla JavaScript: Custom grid-based collision detection and pathfinding algori
 
 CSS3: Modern UI with glassmorphism effects and responsive layouts.
 
-🔧 Installation
-
-No installation is required. Simply open pacman.html in any modern web browser to start playing.
-
-Created as a demonstration of high-performance logic using the core web trio.
